@@ -52,7 +52,7 @@ date_extracted,pdf_filename,accepted_images_count,month,year,date,note,image_cou
 2022-04-01,04_2022.pdf,1,4,2022,2022-04-01,Manually deleted 1 images; manually added 2 images,3,2
 2022-05-01,05_2022.pdf,4,5,2022,2022-05-01,Manually deleted 3 images,4,0
 2022-07-01,07_2022.pdf,5,7,2022,2022-07-01,Manually deleted 4 images,5,0
-2022-08-01,08_2022.pdf,5,8,2022,2022-08-01,Manually deleted 5 images; manually added 3 images,8,3
+2022-08-01,08_2022.pdf,5,8,2022,2022-08-01,Manually deleted 5 images,5,0
 2022-09-01,09_2022.pdf,6,9,2022,2022-09-01,Manually deleted 5 images,6,0
 2022-10-01,10_2022.pdf,6,10,2022,2022-10-01,Manually deleted 5 images,6,0
 2022-11-01,11_2022.pdf,5,11,2022,2022-11-01,Manually deleted 4 images,5,0
@@ -61,17 +61,17 @@ date_extracted,pdf_filename,accepted_images_count,month,year,date,note,image_cou
 2023-02-01,02_2023.pdf,5,2,2023,2023-02-01,Manually deleted 4 images,5,0
 2023-03-01,03_2023.pdf,6,3,2023,2023-03-01,Manually deleted 4 images,6,0
 2023-04-01,04_2023.pdf,6,4,2023,2023-04-01,Manually deleted 4 images,6,0
-2023-05-01,05_2023.pdf,0,5,2023,2023-05-01,Manual correction implemented; manually added 1 images,1,1
+2023-05-01,05_2023.pdf,0,5,2023,2023-05-01,Manual correction implemented,0,0
 2023-06-01,06_2023.pdf,6,6,2023,2023-06-01,Manually deleted 5 images,6,0
 2023-07-01,07_2023.pdf,6,7,2023,2023-07-01,Manually deleted 4 images,6,0
 2023-08-01,08_2023.pdf,6,8,2023,2023-08-01,Manually deleted 4 images,6,0
-2023-09-01,09_2023.pdf,0,9,2023,2023-09-01,Manual correction implemented; manually added 1 images,1,1
+2023-09-01,09_2023.pdf,0,9,2023,2023-09-01,Manual correction implemented,0,0
 2023-10-01,10_2023.pdf,4,10,2023,2023-10-01,Manually deleted 2 images,4,0
 2023-12-01,12_2023.pdf,2,12,2023,2023-12-01,Manually deleted 1 images,2,0
 2024-01-01,1_2024.pdf,3,1,2024,2024-01-01,Manually deleted 1 images,3,0
 2024-02-01,2_2024.pdf,4,2,2024,2024-02-01,Manually deleted 2 images,4,0
 2024-03-01,3_2024.pdf,3,3,2024,2024-03-01,Manually deleted 1 images,3,0
-2024-04-01,4_2024.pdf,1,4,2024,2024-04-01,Manually deleted 1 images; manually added 1 images,2,1
+2024-04-01,4_2024.pdf,1,4,2024,2024-04-01,Manually deleted 1 images,1,0
 2024-05-01,5_2024.pdf,4,5,2024,2024-05-01,Manually deleted 2 images,4,0
 2024-06-01,6_2024.pdf,4,6,2024,2024-06-01,Manually deleted 2 images,4,0
 2024-07-01,7_2024.pdf,4,7,2024,2024-07-01,Manually deleted 2 images,4,0
