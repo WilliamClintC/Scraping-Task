@@ -1,0 +1,4 @@
+Area: 857495.0 pixels (11.06% of page)
+Dimensions: 1152x746 pixels
+Aspect ratio: 1.54
+Content density: 0.08
