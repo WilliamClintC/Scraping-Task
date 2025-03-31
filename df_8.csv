@@ -1,81 +1,79 @@
-pdf_filename,accepted_images_count,date,note,adjusted_images_count
-01_2018.pdf,0,2018-01-01,Manual correction implemented,0
-02_2018.pdf,7,2018-02-01,Manually deleted 5 images,2
-03_2018.pdf,7,2018-03-01,Manually deleted 5 images,2
-04_2018.pdf,7,2018-04-01,Manually deleted 5 images,2
-05_2018.pdf,7,2018-05-01,Manually deleted 4 images,3
-06_2018.pdf,7,2018-06-01,Manually deleted 5 images,2
-07_2018.pdf,7,2018-07-01,Manually deleted 5 images,2
-08_2018.pdf,7,2018-08-01,Manually deleted 5 images,2
-09_2018.pdf,7,2018-09-01,Manually deleted 5 images,2
-10_2018.pdf,1,2018-10-01,Manually deleted 1 images,0
-11_2018.pdf,8,2018-11-01,Manually deleted 5 images,3
-12_2018.pdf,8,2018-12-01,Manually deleted 5 images,3
-01_2019.pdf,8,2019-01-01,Manually deleted 5 images,3
-02_2019.pdf,8,2019-02-01,Manually deleted 5 images,3
-03_2019.pdf,8,2019-03-01,Manually deleted 5 images,3
-04_2019.pdf,8,2019-04-01,Manually deleted 5 images,3
-05_2019.pdf,8,2019-05-01,Manually deleted 5 images,3
-06_2019.pdf,8,2019-06-01,Manually deleted 5 images,3
-07_2019.pdf,8,2019-07-01,Manually deleted 5 images,3
-08_2019.pdf,8,2019-08-01,Manually deleted 4 images,4
-09_2019.pdf,8,2019-09-01,Manually deleted 5 images,3
-10_2019.pdf,8,2019-10-01,Manually deleted 5 images,3
-11_2019.pdf,7,2019-11-01,Manually deleted 4 images,3
-12_2019.pdf,7,2019-12-01,Manually deleted 5 images,2
-01_2020.pdf,7,2020-01-01,Manually deleted 5 images,2
-02_2020.pdf,6,2020-02-01,Manually deleted 4 images,2
-03_2020.pdf,7,2020-03-01,Manually deleted 5 images,2
-04_2020.pdf,7,2020-04-01,Manually deleted 5 images,2
-05_2020.pdf,7,2020-05-01,Manually deleted 6 images,1
-06_2020.pdf,7,2020-06-01,Manually deleted 5 images,2
-07_2020.pdf,7,2020-07-01,Manually deleted 5 images,2
-08_2020.pdf,6,2020-08-01,Manually deleted 4 images,2
-09_2020.pdf,6,2020-09-01,Manually deleted 4 images,2
-10_2020.pdf,6,2020-10-01,Manually deleted 4 images,2
-11_2020.pdf,6,2020-11-01,Manually deleted 4 images,2
-01_2021.pdf,7,2021-01-01,Manually deleted 5 images,2
-02_2021.pdf,7,2021-02-01,Manually deleted 5 images,2
-03_2021.pdf,7,2021-03-01,Manually deleted 5 images,2
-04_2021.pdf,6,2021-04-01,Manually deleted 4 images,2
-05_2021.pdf,6,2021-05-01,Manually deleted 4 images,2
-06_2021.pdf,6,2021-06-01,Manually deleted 4 images,2
-07_2021.pdf,6,2021-07-01,Manually deleted 4 images,2
-08_2021.pdf,6,2021-08-01,Manually deleted 4 images,2
-09_2021.pdf,6,2021-09-01,Manually deleted 4 images,2
-10_2021.pdf,6,2021-10-01,Manually deleted 4 images,2
-11_2021.pdf,6,2021-11-01,Manually deleted 4 images,2
-12_2021.pdf,6,2021-12-01,Manually deleted 4 images,2
-01_2022.pdf,6,2022-01-01,Manually deleted 4 images,2
-02_2022.pdf,1,2022-02-01,Manually deleted 1 images; manually added 2 images,0
-03_2022.pdf,2,2022-03-01,Manually deleted 1 images; manually added 1 images,1
-04_2022.pdf,1,2022-04-01,Manually deleted 1 images; manually added 2 images,0
-05_2022.pdf,4,2022-05-01,Manually deleted 3 images,1
-07_2022.pdf,5,2022-07-01,Manually deleted 4 images,1
-08_2022.pdf,5,2022-08-01,Manually deleted 5 images; manually added 3 images,0
-09_2022.pdf,6,2022-09-01,Manually deleted 5 images,1
-10_2022.pdf,6,2022-10-01,Manually deleted 5 images,1
-11_2022.pdf,5,2022-11-01,Manually deleted 4 images,1
-12_2022.pdf,6,2022-12-01,Manually deleted 5 images,1
-01_2023.pdf,5,2023-01-01,Manually deleted 4 images,1
-02_2023.pdf,5,2023-02-01,Manually deleted 4 images,1
-03_2023.pdf,6,2023-03-01,Manually deleted 4 images,2
-04_2023.pdf,6,2023-04-01,Manually deleted 4 images,2
-05_2023.pdf,0,2023-05-01,Manual correction implemented; manually added 1 images,0
-06_2023.pdf,6,2023-06-01,Manually deleted 5 images,1
-07_2023.pdf,6,2023-07-01,Manually deleted 4 images,2
-08_2023.pdf,6,2023-08-01,Manually deleted 4 images,2
-09_2023.pdf,0,2023-09-01,Manual correction implemented; manually added 1 images,0
-10_2023.pdf,4,2023-10-01,Manually deleted 2 images,2
-12_2023.pdf,2,2023-12-01,Manually deleted 1 images,1
-1_2024.pdf,3,2024-01-01,Manually deleted 1 images,2
-2_2024.pdf,4,2024-02-01,Manually deleted 2 images,2
-3_2024.pdf,3,2024-03-01,Manually deleted 1 images,2
-4_2024.pdf,1,2024-04-01,Manually deleted 1 images; manually added 1 images,0
-5_2024.pdf,4,2024-05-01,Manually deleted 2 images,2
-6_2024.pdf,4,2024-06-01,Manually deleted 2 images,2
-7_2024.pdf,4,2024-07-01,Manually deleted 2 images,2
-8_2024.pdf,4,2024-08-01,Manually deleted 1 images,3
-9_2024.pdf,4,2024-09-01,Manually deleted 2 images,2
-01_2025.pdf,4,2025-01-01,Manually deleted 2 images,2
-03_2025.pdf,3,2025-03-01,Manually deleted 2 images,1
+pdf_filename,accepted_images_count,date,note
+02_2018.pdf,7,2018-02-01,Manually deleted 5 images; manually added 0 images
+03_2018.pdf,7,2018-03-01,Manually deleted 5 images; manually added 0 images
+04_2018.pdf,7,2018-04-01,Manually deleted 5 images; manually added 0 images
+05_2018.pdf,7,2018-05-01,Manually deleted 4 images; manually added 0 images
+06_2018.pdf,7,2018-06-01,Manually deleted 5 images; manually added 0 images
+07_2018.pdf,7,2018-07-01,Manually deleted 5 images; manually added 0 images
+08_2018.pdf,7,2018-08-01,Manually deleted 5 images; manually added 0 images
+09_2018.pdf,7,2018-09-01,Manually deleted 5 images; manually added 0 images
+11_2018.pdf,8,2018-11-01,Manually deleted 5 images; manually added 0 images
+12_2018.pdf,8,2018-12-01,Manually deleted 5 images; manually added 0 images
+01_2019.pdf,8,2019-01-01,Manually deleted 5 images; manually added 0 images
+02_2019.pdf,8,2019-02-01,Manually deleted 5 images; manually added 0 images
+03_2019.pdf,8,2019-03-01,Manually deleted 5 images; manually added 0 images
+04_2019.pdf,8,2019-04-01,Manually deleted 5 images; manually added 0 images
+05_2019.pdf,8,2019-05-01,Manually deleted 5 images; manually added 0 images
+06_2019.pdf,8,2019-06-01,Manually deleted 5 images; manually added 0 images
+07_2019.pdf,8,2019-07-01,Manually deleted 5 images; manually added 0 images
+08_2019.pdf,8,2019-08-01,Manually deleted 4 images; manually added 0 images
+09_2019.pdf,8,2019-09-01,Manually deleted 5 images; manually added 0 images
+10_2019.pdf,8,2019-10-01,Manually deleted 5 images; manually added 0 images
+11_2019.pdf,7,2019-11-01,Manually deleted 4 images; manually added 0 images
+12_2019.pdf,7,2019-12-01,Manually deleted 5 images; manually added 0 images
+01_2020.pdf,7,2020-01-01,Manually deleted 5 images; manually added 0 images
+02_2020.pdf,6,2020-02-01,Manually deleted 4 images; manually added 0 images
+03_2020.pdf,7,2020-03-01,Manually deleted 5 images; manually added 0 images
+04_2020.pdf,7,2020-04-01,Manually deleted 5 images; manually added 0 images
+05_2020.pdf,7,2020-05-01,Manually deleted 6 images; manually added 0 images
+06_2020.pdf,7,2020-06-01,Manually deleted 5 images; manually added 0 images
+07_2020.pdf,7,2020-07-01,Manually deleted 5 images; manually added 0 images
+08_2020.pdf,6,2020-08-01,Manually deleted 4 images; manually added 0 images
+09_2020.pdf,6,2020-09-01,Manually deleted 4 images; manually added 0 images
+10_2020.pdf,6,2020-10-01,Manually deleted 4 images; manually added 0 images
+11_2020.pdf,6,2020-11-01,Manually deleted 4 images; manually added 0 images
+01_2021.pdf,7,2021-01-01,Manually deleted 5 images; manually added 0 images
+02_2021.pdf,7,2021-02-01,Manually deleted 5 images; manually added 0 images
+03_2021.pdf,7,2021-03-01,Manually deleted 5 images; manually added 0 images
+04_2021.pdf,6,2021-04-01,Manually deleted 4 images; manually added 0 images
+05_2021.pdf,6,2021-05-01,Manually deleted 4 images; manually added 0 images
+06_2021.pdf,6,2021-06-01,Manually deleted 4 images; manually added 0 images
+07_2021.pdf,6,2021-07-01,Manually deleted 4 images; manually added 0 images
+08_2021.pdf,6,2021-08-01,Manually deleted 4 images; manually added 0 images
+09_2021.pdf,6,2021-09-01,Manually deleted 4 images; manually added 0 images
+10_2021.pdf,6,2021-10-01,Manually deleted 4 images; manually added 0 images
+11_2021.pdf,6,2021-11-01,Manually deleted 4 images; manually added 0 images
+12_2021.pdf,6,2021-12-01,Manually deleted 4 images; manually added 0 images
+01_2022.pdf,6,2022-01-01,Manually deleted 4 images; manually added 0 images
+02_2022.pdf,1,2022-02-01,Manually deleted 1 images; manually added 2 images
+03_2022.pdf,2,2022-03-01,Manually deleted 1 images; manually added 1 images
+04_2022.pdf,1,2022-04-01,Manually deleted 1 images; manually added 2 images
+05_2022.pdf,4,2022-05-01,Manually deleted 3 images; manually added 0 images
+07_2022.pdf,5,2022-07-01,Manually deleted 4 images; manually added 0 images
+08_2022.pdf,5,2022-08-01,Manually deleted 5 images; manually added 3 images
+09_2022.pdf,6,2022-09-01,Manually deleted 5 images; manually added 0 images
+10_2022.pdf,6,2022-10-01,Manually deleted 5 images; manually added 0 images
+11_2022.pdf,5,2022-11-01,Manually deleted 4 images; manually added 0 images
+12_2022.pdf,6,2022-12-01,Manually deleted 5 images; manually added 0 images
+01_2023.pdf,5,2023-01-01,Manually deleted 4 images; manually added 0 images
+02_2023.pdf,5,2023-02-01,Manually deleted 4 images; manually added 0 images
+03_2023.pdf,6,2023-03-01,Manually deleted 4 images; manually added 0 images
+04_2023.pdf,6,2023-04-01,Manually deleted 4 images; manually added 0 images
+05_2023.pdf,0,2023-05-01,Manual correction implemented; manually added 1 images
+06_2023.pdf,6,2023-06-01,Manually deleted 5 images; manually added 0 images
+07_2023.pdf,6,2023-07-01,Manually deleted 4 images; manually added 0 images
+08_2023.pdf,6,2023-08-01,Manually deleted 4 images; manually added 0 images
+09_2023.pdf,0,2023-09-01,Manual correction implemented; manually added 1 images
+10_2023.pdf,4,2023-10-01,Manually deleted 2 images; manually added 0 images
+12_2023.pdf,2,2023-12-01,Manually deleted 1 images; manually added 0 images
+1_2024.pdf,3,2024-01-01,Manually deleted 1 images; manually added 0 images
+2_2024.pdf,4,2024-02-01,Manually deleted 2 images; manually added 0 images
+3_2024.pdf,3,2024-03-01,Manually deleted 1 images; manually added 0 images
+4_2024.pdf,1,2024-04-01,Manually deleted 1 images; manually added 1 images
+5_2024.pdf,4,2024-05-01,Manually deleted 2 images; manually added 0 images
+6_2024.pdf,4,2024-06-01,Manually deleted 2 images; manually added 0 images
+7_2024.pdf,4,2024-07-01,Manually deleted 2 images; manually added 0 images
+8_2024.pdf,4,2024-08-01,Manually deleted 1 images; manually added 0 images
+9_2024.pdf,4,2024-09-01,Manually deleted 2 images; manually added 0 images
+01_2025.pdf,4,2025-01-01,Manually deleted 2 images; manually added 0 images
+03_2025.pdf,3,2025-03-01,Manually deleted 2 images; manually added 0 images
